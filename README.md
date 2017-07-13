@@ -1,0 +1,5 @@
+# Asp.MVC-05-Extended-ScriptsBundle
+在asp.net 开发中我们使用ScriptBundle已经可以解决javascript遇到的大部分问题，其中包括合并压缩发布版本的问题。asp.net 自带的ScriptBundle已经包含了大部分功能，但是无法实现javascript的混淆加密。在实际项目中，确实很多时候并不希望客户直接很容易的查看到javascript的源码，之前的做法都是把javascript的代码复制到混淆加密的网站，然后进行混淆加密再复制粘贴到项目中。这样做的效率及其低下，并且很容易出现不可预知的问题。 既然asp.net ScriptBundle已经为我们做了那么多对javascript的操作优化，可不可扩展ScriptBundle加一部混淆加密呢。答案是肯定的。
+
+更多详情请至
+http://www.cnblogs.com/emrys5/p/AspMVC_05_Extended_ScriptsBundle.html
